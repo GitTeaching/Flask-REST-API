@@ -1,4 +1,3 @@
-# Flask-REST-API
-## CRUD REST API With Flask &amp; SQL Alchemy &amp; Marshmallow
+# CRUD REST API With Flask &amp; SQL Alchemy &amp; Marshmallow
 
-# Products API using Python Flask, SQL Alchemy and Marshmallow
+Products API using Python Flask, SQL Alchemy and Marshmallow
